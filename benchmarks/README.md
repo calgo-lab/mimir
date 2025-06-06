@@ -45,3 +45,12 @@ The ground truth files are converted accordingly by `export_holoclean_input.py`.
 ## Baranpp
 Baranpp is an implementation of Mimir's correctors in the Baran cleaning system.
 The source code can be found [on github](https://github.com/philipp-jung/baranpp/tree/main).
+
+## Narayan et al.
+There is a file `narayan.py` availabe in the main `src/` directory that can be run to execute the algorithm by Narayan et al. to obtain benchmarks.
+
+## Renuver
+We did not obtain the author's permission to release the source code for Renuver and Domino and thus cannot make it available.
+
+## Baran
+The source code for Baran is availbe [on github](https://github.com/BigDaMa/raha) and we reuse it.
